@@ -3,6 +3,9 @@
 ## Table of content
 
 - [Project Overview](#Project-Overview)
+- [Data Source](#Data-Source)
+- [ Tools ](#Tools )
+- [ Result/Finding](#Result/Finding)
 
 ##  Project Overview
 This dashboard provides key insights into furniture sales performance, including revenue trends, product analysis, and store performance.
