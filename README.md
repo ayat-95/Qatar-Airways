@@ -8,7 +8,18 @@
 - [ Result/Finding](#Result/Finding)
 
 ##  Project Overview
+---
 This dashboard provides key insights into furniture sales performance, including revenue trends, product analysis, and store performance.
+
+#### overview
+
+![pic 1](https://github.com/user-attachments/assets/d78b38c4-7627-46c9-b97c-958cba9f442a)
+#### prouduct 
+![prouduct pic](https://github.com/user-attachments/assets/e4feb5c1-105f-468c-b119-393321fad2eb)
+#### store
+![Store pic](https://github.com/user-attachments/assets/cd89454e-0900-4470-b25f-981e377a4292)
+
+
 
 ### Data Source 
 
